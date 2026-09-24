@@ -32,7 +32,7 @@ export default function HeroSequence({
           <h1
             className="display"
             dangerouslySetInnerHTML={{
-              __html: language === 'en' ? 'NITIN<br>NABIN.' : 'नितिन<br>नबीन।',
+              __html: language === 'en' ? 'NITIN<br>NABIN.' : 'नितिन<br>नवीन।',
             }}
           />
           <span

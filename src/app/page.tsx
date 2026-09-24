@@ -149,7 +149,7 @@ export default function Home() {
           <p>
             {language === 'en'
               ? 'The biographical content is retained from the supplied Nitin Nabin website. Its listed sources are linked below.'
-              : 'जीवनी की सामग्री दी गई नितिन नबीन वेबसाइट से ली गई है। उसके स्रोत नीचे दिए गए हैं।'}
+              : 'जीवनी की सामग्री दी गई नितिन नवीन वेबसाइट से ली गई है। उसके स्रोत नीचे दिए गए हैं।'}
           </p>
           <ul>
             <li>
